@@ -1,0 +1,11 @@
+{
+  "type": "micro",
+  "wake_word": "Gerwazy",
+  "version": 2,
+  "model": "gerwazy.tflite",
+  "trained_languages": ["pl"],
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_size": 10
+  }
+}
