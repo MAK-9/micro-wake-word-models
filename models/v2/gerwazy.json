@@ -4,7 +4,7 @@
   "wake_word": "Gerwazy",
   "version": 2,
   "model": "gerwazy.tflite",
-  "trained_languages": ["en"],
+  "trained_languages": ["pl"],
   "micro": {
     "probability_cutoff": 0.97,
     "sliding_window_size": 5,
