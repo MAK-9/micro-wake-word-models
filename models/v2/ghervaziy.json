@@ -4,7 +4,7 @@
     "author": "Tater Totterson",
     "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
     "model": "ghervaziy.tflite",
-    "trained_languages": ["en"],
+    "trained_languages": ["en, pl"],
     "version": 2,
     "micro": {
         "probability_cutoff": 0.97,
